@@ -20,7 +20,6 @@
 .hwdef
 .ipcache/
 webtalk*
-vivado*
 project_*
 
 # Vitis generated files and workspace

@@ -3,6 +3,8 @@
 Repository that organizes projects for Vivado (FPGA hardware design) and Vitis (heterogeneous applications on Zynq, Vitis platform, etc.) without uploading workspaces or generated files.  
 **Only the files necessary to rebuild the projects from scratch are included.**
 
+**Vitis and Vivado Version 2019.2**
+
 ---
 
 ## Structure
